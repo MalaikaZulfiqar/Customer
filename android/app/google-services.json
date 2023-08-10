@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435262417897",
+    "project_id": "taskit-50902",
+    "storage_bucket": "taskit-50902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435262417897:android:50aacc61c0ac99bf22b978",
+        "android_client_info": {
+          "package_name": "com.taskit.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435262417897-1fidu7gv7po5dgc5e0tv1fpal2a7i1cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwc2raFI7NpSzBlzaaNYqCzDIuOaGpRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435262417897-1fidu7gv7po5dgc5e0tv1fpal2a7i1cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
